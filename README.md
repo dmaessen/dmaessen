@@ -1,4 +1,4 @@
-## Hi there,
+## :star2: Hi there,
 
 I'm Dominique, currently a software engineer student at Codam Codaing School (part of the 42 network).
 On my github profile you'll find a variety of projects, mainly in C/C++:
@@ -7,6 +7,7 @@ On my github profile you'll find a variety of projects, mainly in C/C++:
   - [minishell](https://github.com/Porcupinine/Minishell):
   - [philosophers](https://github.com/dmaessen/philo):
   - [get_next_line](https://github.com/dmaessen/get_next_line):
+
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmaessen&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/DjoykeAbyah/github-readme-stats)
