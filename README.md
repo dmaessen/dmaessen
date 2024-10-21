@@ -10,7 +10,7 @@ On my github profile you'll find a variety of projects, mainly in <b>C/C++</b>:
 
 <br><br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmaessen&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/DjoykeAbyah/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmaessen&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <!--
 **dmaessen/dmaessen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
