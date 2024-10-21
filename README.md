@@ -1,6 +1,6 @@
 ## :star2: Hi there,
 
-I'm Dominique, currently a software engineer student at Codam Codaing School (part of the 42 network).
+I'm Dominique, currently a software engineer student at Codam Coding School (part of the 42 network).<br>
 On my github profile you'll find a variety of projects, mainly in C/C++:
   - [CPP](https://github.com/dmaessen/CPP)
   - [cub3d](https://github.com/dmaessen/cub3d):
