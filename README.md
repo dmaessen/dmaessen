@@ -8,7 +8,7 @@ On my github profile you'll find a variety of projects, mainly in C/C++:
   - [philosophers](https://github.com/dmaessen/philo):
   - [get_next_line](https://github.com/dmaessen/get_next_line):
 
-
+<br><br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmaessen&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/DjoykeAbyah/github-readme-stats)
 <!--
