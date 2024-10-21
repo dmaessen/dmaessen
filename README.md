@@ -2,11 +2,11 @@
 
 I'm Dominique, currently a <b>software engineer student</b> at Codam Coding School (part of the 42 network).<br>
 On my github profile you'll find a variety of projects, mainly in <b>C/C++</b>:
-  - [CPP](https://github.com/dmaessen/CPP)
-  - [cub3d](https://github.com/dmaessen/cub3d):
-  - [minishell](https://github.com/Porcupinine/Minishell):
-  - [philosophers](https://github.com/dmaessen/philo):
-  - [get_next_line](https://github.com/dmaessen/get_next_line):
+  - [CPP](https://github.com/dmaessen/CPP): learning and mastering the basics of C++, from simple to challenging concepts;
+  - [cub3d](https://github.com/dmaessen/cub3d): exploring ray-casting via a 3D-game;
+  - [minishell](https://github.com/Porcupinine/Minishell): recoding our own little bash;
+  - [philosophers](https://github.com/dmaessen/philo): involves multi-threading and mutexes;
+  - [push_swap](https://github.com/dmaessen/push_swap): inplementing efficent sorting algorithms for stacks;
 
 <br><br>
 
