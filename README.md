@@ -1,13 +1,13 @@
 ## :star2: Hi there,
 
 I'm Dominique, currently a <b>software engineer student</b> at Codam Coding School (part of the 42 network).<br>
-On my github profile you'll find a variety of projects, mainly in <b>C/C++</b>:
+On my github profile you'll find a variety of projects, mainly in <b>C/C++/Javascript</b>:
   - [CPP](https://github.com/dmaessen/CPP): learning and mastering the basics of C++, from simple to challenging concepts;
   - [webserv](https://github.com/dmaessen/webserv): setting up a HTTP server in C++;
   - [cub3d](https://github.com/dmaessen/cub3d): exploring ray-casting via a 3D-game;
   - [minishell](https://github.com/dmaessen/Minishell): recoding our own little bash;
   - [philosophers](https://github.com/dmaessen/philo): involves multi-threading and mutexes;
-  - [push_swap](https://github.com/dmaessen/push_swap): inplementing efficent sorting algorithms for stacks;
+  - [push_swap](https://github.com/dmaessen/push_swap): implementing efficient sorting algorithms for stacks;
 
 <br><br>
 
