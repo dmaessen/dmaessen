@@ -2,8 +2,9 @@
 
 I'm Dominique, currently a <b>software engineer student</b> at Codam Coding School (part of the 42 network).<br>
 On my github profile you'll find a variety of projects, mainly in <b>C/C++/Javascript</b>:
-  - [CPP](https://github.com/dmaessen/CPP): learning and mastering the basics of C++, from simple to challenging concepts;
+  - [transcendence](https://github.com/dmaessen/transcendence): creating a website for a multiplayer (and remote) Pong contest;
   - [webserv](https://github.com/dmaessen/webserv): setting up a HTTP server in C++;
+  - [CPP](https://github.com/dmaessen/CPP): learning and mastering the basics of C++, from simple to challenging concepts;
   - [cub3d](https://github.com/dmaessen/cub3d): exploring ray-casting via a 3D-game;
   - [minishell](https://github.com/dmaessen/Minishell): recoding our own little bash;
   - [philosophers](https://github.com/dmaessen/philo): involves multi-threading and mutexes;
